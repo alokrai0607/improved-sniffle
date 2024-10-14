@@ -6,6 +6,7 @@
     display: flex;
   }
 }
+
 /*-----------------------------------For Mid-Size Screen-----------------------------*/
 @media all and (min-width: 701px) and (max-width: 1200px) {
   #nav-cont {
